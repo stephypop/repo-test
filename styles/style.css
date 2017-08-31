@@ -1,0 +1,44 @@
+html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Baloo Tammudu', cursive;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  html {
+    background-color: black;
+  }
+
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid #361CE7;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #000408;
+    text-shadow: 3px 3px 10px #F9FAFB;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
